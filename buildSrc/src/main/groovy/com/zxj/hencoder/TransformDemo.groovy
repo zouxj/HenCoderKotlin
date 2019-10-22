@@ -14,7 +14,12 @@ class TransformDemo extends Transform {
     //定义transformDemo的名字
     @Override
     String getName() {
+        //adfasdfas
         return "TransformDemo"
+
+
+
+
     }
     //是指明你自定义的这个Transform处理的输入类型，输入类型共有以下几种:
     @Override
